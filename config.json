@@ -1,0 +1,9 @@
+{
+    "bot": {
+        "name": "BOTNAME",
+        "token": "BOTTOKEN"
+    },
+    "stuff": {
+        "channel": "CHANNELNAME"
+    }
+}
