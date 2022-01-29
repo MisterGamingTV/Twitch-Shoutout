@@ -1,7 +1,7 @@
 {
     "bot": {
         "name": "BOTNAME",
-        "token": "BOTTOKEN"
+        "token": "TOKEN"
     },
     "msgs": {
         "enabled": true,
@@ -15,10 +15,12 @@
         "line2": "USER",
         "line3": "https://twitch.tv/USER",
         "icon": "USER_ICON",
-        "color": "#36374b"
+        "color": "#36374b",
+        "font": "Sans Serif",
+        "text-color": "WHITE"
     },
     "stuff": {
-        "channel": "CHANNELNAME",
+        "channel": "CHANNEL",
         "debug": false
     }
 }
