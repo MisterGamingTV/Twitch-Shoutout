@@ -21,4 +21,4 @@ client.on('connected', (address, port) => {
 
 });
 
-client.login()
+client.connect(options);
