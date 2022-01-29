@@ -1,4 +1,4 @@
-let config = require('./config.json');
+import config from './config.json';
 
 let options = {
 	options: {
@@ -12,7 +12,7 @@ let options = {
 		username: config.bot.name,
 		password: config.bot.token
 	},
-	channels: [config.stuff.channel]
+	channels: ["#"+config.stuff.channel]
 };
 
 
