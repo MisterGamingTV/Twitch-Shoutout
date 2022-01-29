@@ -1,0 +1,26 @@
+{
+    "bot": {
+        "name": "<name>",
+        "token": "<token>" 
+    },
+    "msgs": {
+        "enabled": true,
+        "join": "Shoutouts enabled",
+        "cmd": "Check out USER! https://twitch.tv/USER PogChamp"
+    },
+    "widget":
+    {
+        "enabled": true,
+        "line1": "Shoutout",
+        "line2": "USER",
+        "line3": "https://twitch.tv/USER",
+        "icon": "USER_ICON",
+        "color": "#36374b",
+        "font": "Sans Serif",
+        "text-color": "WHITE"
+    },
+    "stuff": {
+        "channel": "<channel>",
+        "debug": false
+    }
+}
